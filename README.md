@@ -14,6 +14,7 @@ Hello 😄! My name is Kevin Dai, and I'm currently a programmer looking for the
 
 <br>
 
+Here's a little more about me:
 - 🔭 I’m currently working on creating new visual content for my Youtube channel! 
 - 🌱 I’m currently learning Graph Theory! The book I'm using is 'Introduction to Graph Theory' by R. Trudeau
 - 📫 How to reach me: kevin.dai.2451@gmail.com
