@@ -15,7 +15,7 @@ Hello 😄! My name is Kevin Dai, and I'm currently a programmer looking for the
 <br>
 
 Here's a little more about me:
-- 🔭 I’m currently working on creating new visual content for my Youtube channel! 
+- 🔭 I’m currently working on creating new visual content for my Youtube channel! I'm also determined to make an application that gives strong visuals on data structures and algorithms.
 - 🌱 I’m currently learning Graph Theory! The book I'm using is 'Introduction to Graph Theory' by R. Trudeau
 - 📫 How to reach me: kevin.dai.2451@gmail.com
 - ⚡ Fun fact: I play the piano in the free time! My favorite composer is Chopin, and my favorite piece is his Ballade No. 1 in G Minor
