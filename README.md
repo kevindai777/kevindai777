@@ -14,9 +14,5 @@ Here are some ideas to get you started:
 -->
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kevindai777&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kevindai777&repo=convoychat" />
-</a>
+[![Kevin Dai's github stats](https://github-readme-stats.vercel.app/api?username=kevindai777&show_icons=true&line_height=21&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevindai777&show_icons=true&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
