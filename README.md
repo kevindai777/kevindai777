@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello 😄! My name is Kevin Dai, and I'm currently a programmer looking for the next big opportunity. You'll find that I have a large passion for learning and studying about algorithms on my page (as seen with the unholy number of LeetCode repositories I've posted 🤔). In my free time I love teaching, and run a [YouTube channel](https://www.youtube.com/channel/UCbYIqMHpAuKkUz3Z--KJHqQ), dedicated to me explaining my approach to various coding questions.
+Hello 😄! My name is Kevin Dai, and I'm currently a programmer looking for the next big opportunity. You'll find that I have an immense passion for learning and studying about algorithms on my page (as seen with the unholy number of LeetCode repositories I've posted 🤔). In my free time I love teaching, and run a [YouTube channel](https://www.youtube.com/channel/UCbYIqMHpAuKkUz3Z--KJHqQ) dedicated to me explaining my approach to various coding questions.
 
 <br>
 
